@@ -1,2 +1,3 @@
-# stack-overflow-insights
-Present Stack Overflow developer survey data for Australia only
+# dev-demand
+
+Record and display data relating to software development jobs and demand in the industry
